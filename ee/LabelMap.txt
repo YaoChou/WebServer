@@ -1,0 +1,23 @@
+0 White bread
+1 Gala Apple
+2 Broccoli
+3 Whole Grain Bread
+4 Cheery tomatoes
+5 Granny Smith Apple
+6 Baby carrots
+7 Raw Brussels Sprouts
+8 Turkey wrap
+9 Rice Pilaf
+10 banana
+11 White rice
+12 Egg Whites
+13 Grill Chicken
+14 Garden Salad
+15 Macintosh Apple
+16 Farfalle
+17 Brown rice
+18 Brussels Sprouts
+19 Quinoa Salad
+20 Asparagus
+21 Apple
+22 unknown
